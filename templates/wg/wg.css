@@ -1,0 +1,32 @@
+@import url("./default.css");
+
+main .default {
+	margin: 38px auto;
+	width: 90%;
+}
+
+.radio-el {
+	margin-bottom: 1em !important;
+}
+
+.radio-options-parent {
+	padding: 0.5em 0em 1em 0em;
+}
+
+main .default:first-of-type h1 br {
+	display: none;
+}
+
+.premiere.wg header .product-icon p {
+	color: white;
+}
+
+@media(min-width: 768px) {
+	main .default:first-of-type h1 br {
+		display: block;
+	}	
+}
+
+.hidden {
+	display: none;
+}

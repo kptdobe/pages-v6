@@ -1,0 +1,14 @@
+.hlx/
+.cache/
+.DS_Store
+node_modules/
+pipeline.log
+logs
+deploy.sh
+hlx
+.env
+.comparisons
+.tools/.compare-env/
+
+# other lockfiles
+yarn.lock

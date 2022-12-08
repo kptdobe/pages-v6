@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 51 44.454">
+  <g id="lp_editing1_icon3" transform="translate(-3.011 -6.351)">
+    <rect id="Canvas" width="51" height="44" transform="translate(3.011 6.703)" fill="#282828" opacity="0"/>
+    <path id="Path_82803" data-name="Path 82803" d="M22.526,12.794v8.732H13.794A.794.794,0,0,0,13,22.32v1.588a.794.794,0,0,0,.794.794H25.7V12.794A.794.794,0,0,0,24.907,12H23.32A.794.794,0,0,0,22.526,12.794Z" transform="translate(28.279 26.104)" fill="#282828"/>
+    <path id="Path_82804" data-name="Path 82804" d="M4.175,21.526V12.794A.794.794,0,0,0,3.381,12H1.794A.794.794,0,0,0,1,12.794V24.7H12.907a.794.794,0,0,0,.794-.794V22.32a.794.794,0,0,0-.794-.794Z" transform="translate(2.175 26.104)" fill="#282828"/>
+    <path id="Path_82805" data-name="Path 82805" d="M13,2.794V4.381a.794.794,0,0,0,.794.794h8.732v8.732a.794.794,0,0,0,.794.794h1.588a.794.794,0,0,0,.794-.794V2H13.794A.794.794,0,0,0,13,2.794Z" transform="translate(28.279 4.351)" fill="#282828"/>
+    <path id="Path_82806" data-name="Path 82806" d="M4.175,5.175h8.732a.794.794,0,0,0,.794-.794V2.794A.794.794,0,0,0,12.907,2H1V13.907a.794.794,0,0,0,.794.794H3.381a.794.794,0,0,0,.794-.794Z" transform="translate(2.175 4.351)" fill="#282828"/>
+    <rect id="Rectangle_147667" data-name="Rectangle 147667" width="32" height="25" rx="0.25" transform="translate(12.011 16.703)" fill="#282828"/>
+  </g>
+</svg>
